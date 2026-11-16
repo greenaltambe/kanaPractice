@@ -46,3 +46,6 @@ Thumbs.db
 *.tmp
 *.bak
 .cache
+
+# Agent / Tool skills
+skills/
